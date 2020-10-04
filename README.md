@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello beautiful People 👋
 
-<img src="https://media1.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47wdekukr2je5v9d6z5n6t7vrmk53osd1zpx8yvwfi&rid=giphy.gif" width="100%" height="100%">
+<img src="https://media1.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47wdekukr2je5v9d6z5n6t7vrmk53osd1zpx8yvwfi&rid=giphy.gif" width="1000px" height="400px">
 
 <!--
 **Subritt/Subritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
