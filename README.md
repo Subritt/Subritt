@@ -1,5 +1,5 @@
 ### Hello beautiful People 👋
-[My Site](https://www.subritt.com.np/)
+🤵🏼[About Me](https://www.subritt.com.np/)
 
 <img src="https://media1.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47wdekukr2je5v9d6z5n6t7vrmk53osd1zpx8yvwfi&rid=giphy.gif" width="1000px" height="400px">
 
