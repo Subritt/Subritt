@@ -3,6 +3,12 @@
 
 <img src="https://media1.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47wdekukr2je5v9d6z5n6t7vrmk53osd1zpx8yvwfi&rid=giphy.gif" width="1000px" height="400px">
 
+<br />
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=subritt&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subritt&langs_count=5&theme=tokyonight)]()
+
 <!--
 **Subritt/Subritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
