@@ -2,12 +2,22 @@ Almost 4 years of competitive experience in a variety of working environments an
 
 Avid Enthusiast of Data Science. 💻 📊 🧠
 
-### <ins>Tech Stack:</ins>
+### <ins>Data Tech Stack:</ins>
 **_Database:_** `Google Sheet` `Excel` `API` <br />
 **_Script:_** `Google Script` `Python` <br />
 **_Modeling:_** `Power Pivot` <br />
 **_ETL:_** `Power Query` `Pandas` `Google Sheet` <br />
 **_Visualization:_** `Looker` `Power BI` `Excel` <br />
+
+### <ins>Web Tech Stack:</ins>
+**_Language:_** `JavaScript` `Google Script` `python` <br />
+**_Backend:_** `django` `Google Script` <br />
+**_Frontend:_** `react` `html` `css` `js` <br />
+**_Database:_** `SQL` `Google Sheet` `firebase` <br />
+
+`Google Script` is basically `JavaScript` with all `google libraries` (easy API call within Google products like YouTube) inbuilt especially used to automate Google Workspace (Google Sheets, Calendar, Gmail, Drive, etc)
+
+<br />
 
 <!-- 🤵🏼[About Me](https://www.subritt.com.np/) -->
 
