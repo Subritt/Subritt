@@ -3,7 +3,7 @@ Almost 4 years of competitive experience in a variety of working environments an
 Avid Enthusiast of Data Science. 💻 📊 🧠
 
 ### <ins>Data Tech Stack:</ins>
-**_Database:_** `Google Sheet` `Excel` `API` <br />
+**_Database:_** `Google Sheet` `Excel` `SQL` <br />
 **_Script:_** `Google Script` `Python` <br />
 **_Modeling:_** `Power Pivot` <br />
 **_ETL:_** `Power Query` `Pandas` `Google Sheet` <br />
