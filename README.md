@@ -22,7 +22,8 @@ Avid Enthusiast of Data Science. 💻 📊 🧠
 <!-- 🤵🏼[About Me](https://www.subritt.com.np/) -->
 
 <div class='container'>
-<img height="180em" style=" width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=subritt&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=codeSTACKr&custom_title=Github%20Stats" />
+<!-- <img height="180em" style=" width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=subritt&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=codeSTACKr&custom_title=Github%20Stats" /> -->
+![Subritt's GitHub stats](https://github-readme-stats.vercel.app/api?username=subritt&show_icons=true&theme=radical)
 &nbsp;
 &nbsp;
 <img height="180em" style=" width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subritt&layout=compact&theme=codeSTACKr&hide_border=true&custom_title=Programming%20Languages&size_weight=0.5&count_weight=0.5" />
