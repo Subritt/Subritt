@@ -21,10 +21,10 @@ Avid Enthusiast of Data Science. 💻 📊 🧠
 
 <!-- 🤵🏼[About Me](https://www.subritt.com.np/) -->
 
-<div class='container'>
+
 | <a href="https://github.com/Subritt"><img align="center" src="https://github-readme-stats.vercel.app/api?username=subritt&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Subritt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subritt&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-</div>
+
 
 <img src="https://media1.giphy.com/media/WoD6JZnwap6s8/giphy.gif?cid=ecf05e47wdekukr2je5v9d6z5n6t7vrmk53osd1zpx8yvwfi&rid=giphy.gif" width="1000px" height="400px">
 
