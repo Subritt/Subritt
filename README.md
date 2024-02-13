@@ -5,7 +5,7 @@ Avid Enthusiast of Data Science. 💻 📊 🧠
 ### <ins>Data Tech Stack:</ins>
 **_Database:_** `Google Sheet` `Excel` `SQL` <br />
 **_Script:_** `Google Script` `Python` <br />
-**_Modeling:_** `Power Pivot` <br />
+**_Modeling:_** `Power Pivot` `dbt` <br />
 **_ETL:_** `Power Query` `Pandas` `Google Sheet` <br />
 **_Visualization:_** `Looker` `Power BI` `Excel` <br />
 
