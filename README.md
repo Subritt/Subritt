@@ -15,7 +15,7 @@ Avid Enthusiast of Data Science. 💻 📊 🧠
 **_Frontend:_** `react` `html` `css` `js` <br />
 **_Database:_** `SQL` `Google Sheet` `firebase` <br />
 
-`Google Script` is basically `JavaScript` with all `google libraries` (easy API call within Google products like YouTube) inbuilt especially used to automate Google Workspace (Google Sheets, Calendar, Gmail, Drive, etc)
+`Google Script` is basically `JavaScript` with all `google libraries` (easy API call within Google products like YouTube) inbuilt. Mostly used to automate Google Workspace (Google Sheets, Calendar, Gmail, Drive, etc)
 
 <br />
 
