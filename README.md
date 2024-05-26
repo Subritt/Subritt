@@ -1,6 +1,6 @@
 4 years of competitive experience in a variety of working environments and situations within corporate organizations working to better leverage Business with the powerful insights of Data using my experience in both Data Analytics and Project/Operations Management.
 
-Avid Enthusiast of Data Science. 💻 📊 🧠
+Avid Enthusiast of Data Engineering. 💻 📊 🧠
 
 ### <ins>Data Tech Stack:</ins>
 **_Database:_** `Google Sheet` `Excel` `SQL` <br />
