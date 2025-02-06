@@ -3,17 +3,17 @@
 Avid Enthusiast of Data Engineering. 💻 🛠️ 📊 🧠
 
 ### <ins>Data Tech Stack:</ins>
-**_Database:_** `Google Sheet` `Excel` `SQL` <br />
+**_Database:_** `PostgreSQL` <br />
 **_Script:_** `Google Script` `Python` <br />
 **_Modeling:_** `Power Pivot` `dbt` <br />
 **_ETL:_** `Power Query` `Pandas` `Google Sheet` <br />
-**_Visualization:_** `Looker` `Power BI` `Excel` <br />
+**_Visualization:_** `Lookerstudio` `Power BI` `Excel` <br />
 
 ### <ins>Web Tech Stack:</ins>
-**_Language:_** `JavaScript` `Google Script` `python` <br />
+**_Language:_** `Pythion` `JavaScript` `Google Script` <br />
 **_Backend:_** `django` `Google Script` <br />
 **_Frontend:_** `react` `html` `css` `js` <br />
-**_Database:_** `SQL` `Google Sheet` `firebase` <br />
+**_Database:_** `PostgreSQL` `Google Sheet` `firebase` <br />
 
 `Google Script` is basically `JavaScript` with all `google libraries` (easy API call within Google products like YouTube) inbuilt. Mostly used to automate Google Workspace (Google Sheets, Calendar, Gmail, Drive, etc)
 
