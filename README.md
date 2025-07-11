@@ -1,6 +1,6 @@
 4 years of competitive experience in a variety of working environments and situations within corporate organizations working to better leverage Business with the powerful insights of Data using my experience in both Data Analytics and Project/Operations Management.
 
-Avid Enthusiast of Data Engineering. 💻 🛠️ 📊 🧠
+Avid Enthusiast of Data Science. 💻 🛠️ 📊 🧠
 
 ### <ins>Data Tech Stack:</ins>
 **_Database:_** `PostgreSQL` <br />
@@ -10,9 +10,9 @@ Avid Enthusiast of Data Engineering. 💻 🛠️ 📊 🧠
 **_Visualization:_** `Lookerstudio` `Power BI` `Excel` <br />
 
 ### <ins>Web Tech Stack:</ins>
-**_Language:_** `Pythion` `JavaScript` `Google Script` <br />
+**_Language:_** `Pythion` `Google Script` <br />
 **_Backend:_** `django` `Google Script` <br />
-**_Frontend:_** `react` `html` `css` `js` <br />
+**_Frontend:_** `html` `css` `js` <br />
 **_Database:_** `PostgreSQL` `Google Sheet` `firebase` <br />
 
 `Google Script` is basically `JavaScript` with all `google libraries` (easy API call within Google products like YouTube) inbuilt. Mostly used to automate Google Workspace (Google Sheets, Calendar, Gmail, Drive, etc)
