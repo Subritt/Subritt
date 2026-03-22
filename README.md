@@ -6,7 +6,9 @@ Data Science on going... 💻 🛠️ 📊 🧠
 **_Warehouse:_** `Snowflake` <br />
 **_Script:_** `Python` `Google App Script` <br />
 **_Modeling:_** `dbt` `pandas` <br />
-**_Visualization:_** `Lookerstudio` `Power BI` `Excel` `Streamlit` <br />
+**_Orchestration:_** `Prefect` <br />
+**_Analysis:_** `Python` `Google Sheet` `Excel` <br />
+**_Visualization:_** `Lookerstudio` `Power BI` `Streamlit` <br />
 
 `Google App Script` is basically `JavaScript` with all `google libraries` (easy API call within Google products like YouTube) inbuilt. Mostly used to automate Google Workspace (Google Sheets, Calendar, Gmail, Drive, etc)
 
