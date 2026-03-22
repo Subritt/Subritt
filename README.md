@@ -1,21 +1,14 @@
-4 years of competitive experience in a variety of working environments and situations within corporate organizations working to better leverage Business with the powerful insights of Data using my experience in both Data Analytics and Project/Operations Management.
+6 years of competitive experience in a variety of working environments and situations within corporate organizations working to better leverage Business with the powerful insights of Data using my experience in both Data Analytics and Project/Operations Management.
 
-Avid Enthusiast of Data Science. 💻 🛠️ 📊 🧠
+Data Science on going... 💻 🛠️ 📊 🧠
 
 ### <ins>Data Tech Stack:</ins>
-**_Database:_** `PostgreSQL` <br />
-**_Script:_** `Google Script` `Python` <br />
-**_Modeling:_** `Power Pivot` `dbt` <br />
-**_ETL:_** `Power Query` `Pandas` `Google Sheet` <br />
-**_Visualization:_** `Lookerstudio` `Power BI` `Excel` <br />
+**_Warehouse:_** `Snowflake` <br />
+**_Script:_** `Python` `Google App Script` <br />
+**_Modeling:_** `dbt` `pandas` <br />
+**_Visualization:_** `Lookerstudio` `Power BI` `Excel` `Streamlit` <br />
 
-### <ins>Web Tech Stack:</ins>
-**_Language:_** `Pythion` `Google Script` <br />
-**_Backend:_** `django` `Google Script` <br />
-**_Frontend:_** `html` `css` `js` <br />
-**_Database:_** `PostgreSQL` `Google Sheet` `firebase` <br />
-
-`Google Script` is basically `JavaScript` with all `google libraries` (easy API call within Google products like YouTube) inbuilt. Mostly used to automate Google Workspace (Google Sheets, Calendar, Gmail, Drive, etc)
+`Google App Script` is basically `JavaScript` with all `google libraries` (easy API call within Google products like YouTube) inbuilt. Mostly used to automate Google Workspace (Google Sheets, Calendar, Gmail, Drive, etc)
 
 <br />
 
